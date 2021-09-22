@@ -1,13 +1,13 @@
 body{
-    background-image: url(./fleximage.jpg);
-    border: 5px solid green;
+    background-image: url(./Trendy-Restaurant-Simple-Background-Image.jpg);
+    border: 5px solid rgba(105, 73, 30, 0.733);
 }
 .box{
     color: white;
     font-style: italic;
     font-size: xx-large;
     background-color: black;
-    border: 8px solid crimson;
+    border: 8px solid burlywood;
     border-radius: 51px;
     height: 136px;
     width: 404px;
@@ -20,7 +20,7 @@ body{
     font-size: xx-large;
     text-align: end;
     background-color: black;
-    border: 8px solid crimson;
+    border: 8px solid burlywood;
     border-radius: 118px;
     height: 23px;
     width: 549px;
@@ -34,7 +34,7 @@ body{
     font-style: italic;
     font-size: x-large;
     background-color: black;
-    border: 8px solid crimson;
+    border: 8px solid burlywood;
     border-radius: 51px;
     height: 136px;
     width: 302px;
@@ -51,28 +51,28 @@ body{
     font-weight: bolder;
     text-decoration: underline;
     border-radius: 200px;
-    border: 8px solid darkgray;
-    background-color: cyan;
+    border: 8px solid black;
+    background-color: burlywood;
     text-align: center;
     margin: 448px 20px 68px 112px;
     padding-top: 96px;
 }
 .form{
-    color: crimson;
+    color: brown;
     text-align: center;
     background-color: floralwhite;
-    border: crimson dashed 8px;
+    border: burlywood dashed 8px;
     width: 499px;
     height: 593px;
     margin: -600px 84px 101px 642px;
 }
 .Menu{
-    color: white;
+    color: floralwhite;
     font-style: italic;
     text-align: center;
     font-size: xx-large;
     background-color: black;
-    border: 8px solid crimson;
+    border: 8px solid burlywood;
     border-radius: 51px;
     height: 29px;
     width: 467px;
@@ -80,10 +80,10 @@ body{
     margin: 67px 207px 20px 498px;
 }
 .menu1{
-    color: rebeccapurple;
+    color: burlywood;
     font-size: large;
-    background-color: cyan;
-    border: 5px solid green;
+    background-color: black;
+    border: 5px solid burlywood;
     border-radius: 20px;
     height: 264px;
     width: 270px;
@@ -106,10 +106,10 @@ body{
     flex-wrap: wrap;
 }
 .menu2{
-    color: rebeccapurple;
+    color: burlywood;
     font-size: large;
-    background-color: cyan;
-    border: 5px solid green;
+    background-color: black;
+    border: 5px solid burlywood;
     border-radius: 20px;
     height: 264px;
     width: 270px;
@@ -120,10 +120,10 @@ body{
     text-align: center;
 }
 .menu3{
-    color: rebeccapurple;
+    color: burlywood;
     font-size: large;
-    background-color: cyan;
-    border: 5px solid green;
+    background-color: black;
+    border: 5px solid burlywood;
     border-radius: 20px;
     height: 297px;
     width: 270px;
